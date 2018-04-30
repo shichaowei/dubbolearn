@@ -1,0 +1,4 @@
+com\wsc\dubbotest\provider\service\impl\DemoServiceImpl.class
+com\wsc\dubbotest\provider\meta\User.class
+com\wsc\dubbotest\provider\Provider.class
+com\wsc\dubbotest\provider\service\DemoService.class
